@@ -1,4 +1,4 @@
-# FlexibleFragment
+# Flexible Fragment
 Fragment adalah sebuah reuseable class yang mengimplementasikan beberapa fitur sebuah Activity dan sebuah Fragment tidak dapat berdiri sendiri tanpa sebuah Activity. Mengembangkan aplikasi dengan Fragment memiliki fleksibilitas karena kita dapat memanipulasi fragment - fragment tersebut seperti menambah atau membuangnya untuk bisa digunakan kembali pada kebutuhan yang memiliki kemiripan fungsi dalam satu flow aplikasi. Tutorial ini akan membahas bagaimana cara menggunakan banyak Fragment dengan hanya menggunakan satu Activity atau biasa disebut dengan Flexibilitas Fragment.
 
 # Membuat Aplikasi Android dengan menggunakan Flexible Fragment
